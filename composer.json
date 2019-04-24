@@ -1,11 +1,11 @@
 {
-    "name": "artisaninweb/laravel-soap",
+    "name": "digitaladditive/laravel-soap-fork",
     "description": "A SoapClient wrapper integration for Laravel",
     "keywords": ["laravel", "soap", "client", "wrapper"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Michael van de Rijt",
+            "name": "Michael van de Rijt -> Patrick Bennett",
             "email": "me@mvdrijt.com"
         }
     ],
